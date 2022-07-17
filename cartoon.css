@@ -1,0 +1,16 @@
+.box{
+width:70px;
+height:70px;
+background:green;
+border: 2px solid black;
+border-radius: 10px;
+position: relative;
+display: block;
+top: 10%;
+left: 50%;
+-webkit-transform: translate(-50%, -50%) rotate(-23deg) ;
+   -moz-transform: translate(-50%, -50%) rotate(-23deg) ;
+     -ms-transform: translate(-50%, -50%) rotate(-23deg) ;
+        -o-transform: translate(-50%, -50%) rotate(-23deg) ;
+              transform: translate(-50%, -50%) rotate(-23deg) ;
+            }
